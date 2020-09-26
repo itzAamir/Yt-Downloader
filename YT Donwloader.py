@@ -1,3 +1,7 @@
+
+# Author: itzAamir
+# Date: 26th Sept 2020
+
 from tkinter import Label, StringVar, Entry, Button, mainloop, Tk, Menu, HORIZONTAL
 from tkinter.ttk import Progressbar
 from tkinter import simpledialog, messagebox
